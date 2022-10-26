@@ -1,0 +1,5 @@
+server.port=2244
+
+answerServiceName=quote-service
+serviceProtocol=http://
+servicePath=/quote
