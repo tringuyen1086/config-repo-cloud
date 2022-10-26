@@ -1,5 +1,5 @@
 server.port=2244
 
-answerServiceName=quote-service
+answerServiceName=magic-eight-ball-service
 serviceProtocol=http://
-servicePath=/quote
+servicePath=/answer
